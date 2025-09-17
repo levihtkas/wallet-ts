@@ -95,7 +95,6 @@ function App() {
 
   
   const stylesP = "p-2 "
-  const lightFonts="bg-white"
   const TrashStyles = "text-red-200 cursor-pointer shadow-md hover:text-red-400"
 
   return (
